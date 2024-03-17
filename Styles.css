@@ -1,0 +1,120 @@
+body {
+  background-image: url(https://tinypic.host/images/2024/03/17/Rain.jpeg);
+  font-family: "pt sans";
+  backdrop-filter: blur(1px);
+}
+
+
+
+h1, h2, p {
+  background-color: #73FFB9;
+  color: black;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 5px 5px 10px 5px #73FFE8;
+}
+
+h1 {
+  width: 50vw;
+  font-family: marhey;
+  font-size: 3em;
+  margin-top: 20px;
+  border-radius: 40%;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+h2 {
+  width: 80vw;
+  font-size: 2em;
+  border-radius: 50%;
+  padding: 10px;
+  padding-top: 15px;
+}
+p {
+  border-radius: 5%;
+  font-size: 1.8em;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin-top: 40px;
+  width: 80vw;
+}
+
+#img-caption {
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+background-color: #73FFB9;
+width: 70vw;
+border-radius: 5%;
+font-style: italic;
+text-align: center;
+box-shadow: 5px 5px 10px 5px #73FFE8;
+font-size: 1.7em;
+}
+
+img {display: block;
+max-width: 100%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+border-radius: 80%;
+border: 10px lightgrey;
+border-style: ridge;
+}
+
+.music {
+  background-image: url(https://tinypic.host/images/2024/03/17/Musicef997f4b423b3885.jpeg);
+padding-bottom: 20px;
+padding-top: 5px;
+border-radius: 10%;
+width: 90vw;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+}
+
+.philosophy {
+  background-image: url(https://tinypic.host/images/2024/03/17/galaxy.jpeg);
+padding-bottom: 20px;
+padding-top: 5px;
+border-radius: 10%;
+width: 90vw;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+}
+
+ .sweet {
+  background-image: url(https://tinypic.host/images/2024/03/17/trees.jpeg);
+padding-bottom: 20px;
+padding-top: 5px;
+border-radius: 10%;
+width: 90vw;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+}
+
+ .beauty {
+  background-image: url(https://tinypic.host/images/2024/03/17/lipstick.jpeg);
+padding-bottom: 20px;
+padding-top: 5px;
+border-radius: 10%;
+width: 90vw;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+}
+
+ .yagmur {
+  background-image: url(https://tinypic.host/images/2024/03/17/hearts.jpeg);
+padding-bottom: 20px;
+padding-top: 5px;
+border-radius: 10%;
+width: 90vw;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 20px;
+}
